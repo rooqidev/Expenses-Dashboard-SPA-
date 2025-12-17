@@ -18,14 +18,13 @@ You can use this application for tracking your expences & see live data through 
 - Items are stored locally in the browser, using it APIs
 - JavaScript handles CRUD operations & Other Logic,
 - UI updates dynamically without page reload,
-- Implimented full Single Page App logic, using vanilla js,
+- Implimented full Single Page App logic using vanilla js,
 
 # Usage
 - Clone the repository,
 - Open 'Index.html' in a browser,
-
-LIVE LINK: 
-REPO: 
+- LIVE LINK: [https://rooqidev.github.io/Expenses-Dashboard-SPA-/]
+- REPO: [https://github.com/rooqidev/Expenses-Dashboard-SPA-]
 
 # License
 This project is licensed under the MIT License.
