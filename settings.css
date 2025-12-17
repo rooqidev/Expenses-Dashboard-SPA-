@@ -1,0 +1,71 @@
+.settings-Div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 1rem;
+}
+
+.settings-Div button {
+  border-radius: 0.5rem;
+}
+
+.success-Card,
+.warning-Card button {
+  margin-top: 1rem;
+  background: white;
+  color: black;
+}
+.dashboard-poPup,
+.fonts-Model,
+.warning-Card,
+.success-Card {
+  position: absolute;
+  bottom: 21px;
+  right: 351px;
+  border-radius: 1rem;
+  padding: 2rem;
+  background: white;
+  box-shadow: 10px 10px 900px 900px rgba(0, 0, 0, 0.5);
+  color: black;
+}
+
+.currencys-Model {
+  position: absolute;
+  top: 45px;
+  right: 5px;
+  font-size: 1rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  margin-top: 1rem;
+  line-height: 0.9;
+  padding: 2rem 3rem;
+  padding-right: 4rem;
+  margin: 1rem;
+  border-radius: 1rem;
+  font-size: 0.9rem;
+  background-color: white;
+  box-shadow: 5px 10px 10px 5px rgba(0, 0, 0, 0.15);
+}
+
+.currency {
+  display: grid;
+  grid-template-columns: repeat(3, 40px);
+  gap: 2rem;
+}
+
+.fonsts-model {
+  position: absolute;
+  top: 50px;
+  right: 50px;
+  border-radius: 0.7rem;
+  padding: 2rem 1rem;
+  font-size: 1rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  box-shadow: 5px 10px 10px 5px rgba(0, 0, 0, 0.15);
+  gap: 0.4rem;
+}
