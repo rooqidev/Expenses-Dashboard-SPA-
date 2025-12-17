@@ -7,7 +7,7 @@ You can use this application for tracking your expences & see live data through 
 - Persistent Storage using Browser APIs,
 - Look through Items category wise through it's Dashboard
 - Clean & Calm UI,
-- 
+ 
 # Technologies used
 - HTML,
 - CSS,
